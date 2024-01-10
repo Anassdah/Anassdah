@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anassdah&show_icons=true&locale=en&layout=compact" alt="anassdah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anassdah&show_icons=true&locale=en" alt="anassdah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anassdah&" alt="anassdah" /></p>
 
